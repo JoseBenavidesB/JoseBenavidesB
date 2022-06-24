@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseBenavidesB
 - 👀 I want to change my current job (Land Surveyor Engineering) to Development
-- 🌱 I have knowledge in python, django, node.js, react, javascript, html and css
+- 🌱 I have knowledge in python, django, node.js, react, javascript, SQL, MongoDB, html and css
 - 💞️ I’m looking to collaborate on project that help me to learn
 - 📫 Send me a message
 
