@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseBenavidesB
-- 👀 I’m interested in change my job to Development
-- 🌱 I’m currently learning python, django, node.js, html, css, javascript
+- 👀 I want to change my current job (Land Surveyor Engineering) to Development
+- 🌱 I have knowledge in python, django, node.js, react, javascript, html and css
 - 💞️ I’m looking to collaborate on project that help me to learn
 - 📫 Send me a message
 
