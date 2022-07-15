@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoseBenavidesB
-- 👀 I want to change my current job (Land Surveyor Engineering) to Development
+- 👀 I want to change my current job (Land Surveyor Engineering) to Software Developer
 - 🌱 I have knowledge in Python, Django, Node.js, React, Javascript, SQL, MongoDB, Html and CSS
 - 💞️ I’m looking to collaborate on project that help me to improve my skills
 - 📫 Send me a message
