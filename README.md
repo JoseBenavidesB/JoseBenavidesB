@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseBenavidesB
 - 👀 I want to get my first job as a Software Developer
-- 🌱 I have knowledge in Django, Node.js, React, Javascript, SQL, MongoDB, Html, CSS, Linux, Docker 
+- 🌱 I have knowledge in Python, Django, Node.js, React, Javascript, SQL, MongoDB, Html, CSS, Linux, Docker 
 - 💞️ I’m looking to collaborate on project that help me to improve my skills
 - 📫 Send me a message
 
